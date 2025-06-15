@@ -1,3 +1,4 @@
 *
 !png/**/*.png
+!free.zip
 !.gitignore
